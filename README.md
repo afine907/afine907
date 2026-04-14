@@ -1,107 +1,47 @@
 <div align="center">
 
-# 👨‍💻 高级全栈工程师 | AI Agent 开发者
+# afine907
 
-**5年+ 前端开发 · 全栈架构能力 · 1年+ AI Native实践者**
+**AI Agent 开发工程师（求职中）**
 
-正在全力转型 AI Agent全栈开发，努力ing
-
-</div>
-
----
-
-## 🎯 关于我
-
-在办公安全与数据安全领域深耕多年。
-
-2025年率先落地 **AI Native 开发模式**，主导开发开源项目 **[Nano Code](https://github.com/sanqiushu/nano-code)**（轻量级 AI 编程助手），将团队编码效能提升 **50%+**。深度实践 **LLM、Agent、LangChain、LangGraph、MCP** 技术栈，积累了丰富的生产级 Agent 开发经验。
-
-目前正在探索 **LLM + Agent + 工作流自动化** 的边界，致力于让 AI 成为开发者的真正伙伴，而非替代者。
-
----
-
-## 🔥 核心亮点
-
-### 🤖 AI Native 先行者
-- **2025年** 探索并落地 AI Native 开发模式，团队编码效能提升 **50%+**
-- 主导开发 **Code Manus** 编码任务编排系统，实现开发流程智能化
-- 深度实践 **LLM、Agent、LangChain、LangGraph** 技术栈
-- 积累了大量生产级 **Agent Skill** 实现经验
-- 开发过多个 **MCP (Model Context Protocol)** 应用
-
-### 💼 业务领域专家
-- **办公安全风险治理** · **数据安全核心业务** 专家
-- 负责企业级安全产品的架构设计与落地
-- 在风险识别、数据保护等领域有深厚积累
-
-### 🚀 全栈开发能力
-- **前端**: React / Vue / TypeScript / 性能优化 / 工程化
-- **后端**: Node.js / Python / 微服务架构 / 数据库设计
-- **DevOps**: CI/CD / 容器化 / 云原生
-
----
-
-## 🛠️ 技术栈
-
-### 前端开发
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-
-### 后端开发
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-### AI & Agent
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)
-
----
-
-## 📝 内容创作
-
-### 📚 AI 应用探索
-- **AI 写小说**: 探索 AI 在创意写作领域的应用
-- **公众号**: 分享 AI 使用场景、Agent 开发实践、技术思考
-
-### 🎤 技术分享
-- AI Native 开发模式实践经验
-- Agent 开发从入门到实战
-- LLM 应用架构设计
-
----
-
-## 🎯 求职意向
-
-**期望岗位**: AI Agent 开发工程师（全栈开发）
-
-**核心优势**:
-- ✅ 全栈开发能力，可独立完成端到端开发
-- ✅ AI Native 实战经验，能快速落地 AI 应用
-- ✅ Agent 开发经验丰富，熟悉 LangChain/LangGraph 生态
-- ✅ 业务理解能力强，能快速融入新领域
-
----
-
-## 📬 联系我
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-联系我-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![WeChat](https://img.shields.io/badge/WeChat-添加好友-07C160?style=for-the-badge&logo=wechat&logoColor=white)](#)
-[![Blog](https://img.shields.io/badge/Blog-技术博客-000000?style=for-the-badge&logo=ghost&logoColor=white)](#)
+5 年全栈 · 安全治理专家 · [Nano Code](https://github.com/sanqiushu/nano-code) 作者 · 编码效能提升 50%+
 
 </div>
 
 ---
 
+## 我是谁
+
+- 🤖 **AI Native 实践者**：开源 Nano Code，LangChain/LangGraph/MCP 实战经验
+- 💼 **安全治理专家**：办公安全 + 数据安全，企业级产品架构设计
+- 🚀 **全栈开发者**：React/Vue/TypeScript · Node.js/Python · 微服务
+
+---
+
+## 代表作
+
+### [Nano Code](https://github.com/sanqiushu/nano-code)
+
+终端 AI 编程助手，支持 Claude/MiniMax/GLM/Kimi/DeepSeek，11 个工具，已在团队落地
+
+```bash
+pip install nano-code
+```
+
+---
+
+## 求职意向
+
+**岗位**：AI Agent 开发工程师（全栈）
+
+**优势**：全栈能力 + Agent 实战 + 业务理解
+
+**联系**：📧 ppp070@163.com
+
+---
+
 <div align="center">
 
-**💡 "让 AI 成为开发者的伙伴，而非替代者"**
-
-**⭐ 如果我的项目对你有帮助，欢迎 Star 支持！**
+*"让 AI 成为开发者的伙伴"*
 
 </div>
