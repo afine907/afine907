@@ -2,15 +2,9 @@
 
 # 👨‍💻 高级全栈工程师 | AI Agent 开发者
 
-**5年+ 前端开发 · 全栈架构能力 · AI Native 实践者**
+**5年+ 前端开发 · 全栈架构能力 · 1年+ AI Native实践者**
 
-### 🔥 代表项目：[Nano Code](https://github.com/sanqiushu/nano-code) - 轻量级 AI 编程助手
-
-**开源 AI Coding Agent · 终端运行 · 多模型支持 · 编码效能提升 50%+**
-
-[![GitHub stars](https://img.shields.io/github/stars/sanqiushu/nano-code?style=social)](https://github.com/sanqiushu/nano-code)
-[![PyPI](https://img.shields.io/pypi/v/nano-code?color=blue)](https://pypi.org/project/nano-code/)
-[![GitHub followers](https://img.shields.io/github/followers/sanqiushu?label=Follow&style=social)](https://github.com/sanqiushu)
+正在全力转型 AI Agent全栈开发，努力ing
 
 </div>
 
@@ -18,7 +12,7 @@
 
 ## 🎯 关于我
 
-专注于 **AI Agent 开发** 的全栈工程师，在办公安全与数据安全领域深耕多年。
+在办公安全与数据安全领域深耕多年。
 
 2025年率先落地 **AI Native 开发模式**，主导开发开源项目 **[Nano Code](https://github.com/sanqiushu/nano-code)**（轻量级 AI 编程助手），将团队编码效能提升 **50%+**。深度实践 **LLM、Agent、LangChain、LangGraph、MCP** 技术栈，积累了丰富的生产级 Agent 开发经验。
 
@@ -38,7 +32,7 @@
 ### 💼 业务领域专家
 - **办公安全风险治理** · **数据安全核心业务** 专家
 - 负责企业级安全产品的架构设计与落地
-- 在安全合规、风险识别、数据保护等领域有深厚积累
+- 在风险识别、数据保护等领域有深厚积累
 
 ### 🚀 全栈开发能力
 - **前端**: React / Vue / TypeScript / 性能优化 / 工程化
@@ -67,59 +61,6 @@
 
 ---
 
-## 📊 GitHub 统计
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=afine907&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=afine907&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🚀 精选项目
-
-### 🤖 [Nano Code - 轻量级 AI 编程助手](https://github.com/sanqiushu/nano-code) ⭐
-> 开源的终端 AI Coding Agent，灵感来自 Claude Code，支持多模型切换
-
-**核心特性**:
-- 🎯 11 个工具（bash、read/write/edit、glob/grep、todo、task 等）
-- 🔒 三层压缩机制 + 路径沙箱 + 危险命令拦截
-- 🌐 支持多模型：Claude、MiniMax、GLM、Kimi、DeepSeek
-- 🚀 子代理隔离、后台任务、上下文压缩
-
-**技术栈**: Python · Anthropic Messages API · Terminal UI
-
-**成果**: 开源项目，团队内部落地使用，编码效能提升 50%+
-
-```bash
-# 一键安装使用
-pip install nano-code
-nano-code
-```
-
----
-
-### 🛡️ 企业级安全治理平台
-> 办公安全风险治理与数据安全核心业务系统
-
-**技术栈**: React · Node.js · 微服务架构
-
-**成果**: 覆盖企业全场景安全治理，支撑核心业务稳定运行
-
----
-
-### 🧩 Agent Skills Collection
-> 生产级 Agent Skills 集合，涵盖多种实际应用场景
-
-**技术栈**: LangChain · MCP · Python
-
-**成果**: 积累了丰富的 Agent 实战经验，可直接复用
-
----
-
 ## 📝 内容创作
 
 ### 📚 AI 应用探索
@@ -142,10 +83,6 @@ nano-code
 - ✅ AI Native 实战经验，能快速落地 AI 应用
 - ✅ Agent 开发经验丰富，熟悉 LangChain/LangGraph 生态
 - ✅ 业务理解能力强，能快速融入新领域
-
-**期望薪资**: [根据实际情况填写]
-
-**工作地点**: [根据实际情况填写]
 
 ---
 
