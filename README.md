@@ -15,7 +15,7 @@
 - 🤖 **AI Native 实践者**：LangChain/LangGraph/MCP 实战经验，编码效能提升 50%+
 - 💼 **安全治理专家**：办公安全 + 数据安全，企业级产品架构设计
 - 🚀 **全栈开发者**：React/Vue/TypeScript · Node.js/Python · 微服务
-- 📦 **开源项目**：[Nano Code](https://github.com/sanqiushu/nano-code) - 终端 AI 编程助手
+- 📦 **开源项目**：[jojo-Code](https://github.com/afine907/jojo-code) - 终端 AI 编程助手
 
 ---
 
